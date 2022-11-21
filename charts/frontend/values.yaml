@@ -1,0 +1,9 @@
+appName: wordpress
+appImage: wordpress
+appVersion: 4.8-apache
+appReplica: 1
+appTier: frontend
+appcontainerPort: 80
+
+servicetype: NodePort
+serviceport: 80

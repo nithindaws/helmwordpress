@@ -1,0 +1,4 @@
+frontend:
+  enabled: true
+backend:
+  enabled: true

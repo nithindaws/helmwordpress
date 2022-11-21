@@ -1,0 +1,10 @@
+appName: mysql
+appImage: mysql
+appVersion: 5.7
+appReplica: 1
+appTierdb: database
+appcontainerPort: 3306
+
+servicetype: None
+serviceport: 3306
+servicetargetport: 3306
